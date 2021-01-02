@@ -1,0 +1,24 @@
+{
+  "name": "exotic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "",
+    "lint": "npx textlint /articles"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mefcn/exotic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mefcn/exotic/issues"
+  },
+  "homepage": "https://github.com/mefcn/exotic#readme",
+  "devDependencies": {
+    "textlint": "^11.7.7",
+    "textlint-rule-preset-japanese": "^5.0.0"
+  }
+}
